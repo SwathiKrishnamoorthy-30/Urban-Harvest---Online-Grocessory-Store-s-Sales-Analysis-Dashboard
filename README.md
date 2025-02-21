@@ -1,1 +1,1 @@
-# Urban Harvest - Online Grocessory Store's Sales Analysis Dashboard
+# Urban Harvest - Online Grocery Store's Sales Analysis Dashboard
